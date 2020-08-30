@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/shirya/.dotnet/store/|arch|/|tfm|",
+      "/home/shirya/.nuget/packages"
+    ]
+  }
+}
