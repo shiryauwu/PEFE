@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shirya/Desktop/PEfE/PEfE.csproj": {}
+    "/home/shirya/Desktop/PEFE/PEfE/PEfE.csproj": {}
   },
   "projects": {
-    "/home/shirya/Desktop/PEfE/PEfE.csproj": {
+    "/home/shirya/Desktop/PEFE/PEfE/PEfE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shirya/Desktop/PEfE/PEfE.csproj",
+        "projectUniqueName": "/home/shirya/Desktop/PEFE/PEfE/PEfE.csproj",
         "projectName": "PEfE",
-        "projectPath": "/home/shirya/Desktop/PEfE/PEfE.csproj",
+        "projectPath": "/home/shirya/Desktop/PEFE/PEfE/PEfE.csproj",
         "packagesPath": "/home/shirya/.nuget/packages/",
-        "outputPath": "/home/shirya/Desktop/PEfE/obj/",
+        "outputPath": "/home/shirya/Desktop/PEFE/PEfE/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shirya/.nuget/NuGet/NuGet.Config"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     }

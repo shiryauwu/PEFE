@@ -11,3 +11,16 @@
 /home/shirya/Desktop/PEfE/obj/Debug/netcoreapp3.1/PEfE.dll
 /home/shirya/Desktop/PEfE/obj/Debug/netcoreapp3.1/PEfE.pdb
 /home/shirya/Desktop/PEfE/obj/Debug/netcoreapp3.1/PEfE.genruntimeconfig.cache
+/home/shirya/Desktop/PEFE/PEfE/bin/Debug/netcoreapp3.1/PEfE
+/home/shirya/Desktop/PEFE/PEfE/bin/Debug/netcoreapp3.1/PEfE.deps.json
+/home/shirya/Desktop/PEFE/PEfE/bin/Debug/netcoreapp3.1/PEfE.runtimeconfig.json
+/home/shirya/Desktop/PEFE/PEfE/bin/Debug/netcoreapp3.1/PEfE.runtimeconfig.dev.json
+/home/shirya/Desktop/PEFE/PEfE/bin/Debug/netcoreapp3.1/PEfE.dll
+/home/shirya/Desktop/PEFE/PEfE/bin/Debug/netcoreapp3.1/PEfE.pdb
+/home/shirya/Desktop/PEFE/PEfE/obj/Debug/netcoreapp3.1/PEfE.csprojAssemblyReference.cache
+/home/shirya/Desktop/PEFE/PEfE/obj/Debug/netcoreapp3.1/PEfE.AssemblyInfoInputs.cache
+/home/shirya/Desktop/PEFE/PEfE/obj/Debug/netcoreapp3.1/PEfE.AssemblyInfo.cs
+/home/shirya/Desktop/PEFE/PEfE/obj/Debug/netcoreapp3.1/PEfE.csproj.CoreCompileInputs.cache
+/home/shirya/Desktop/PEFE/PEfE/obj/Debug/netcoreapp3.1/PEfE.dll
+/home/shirya/Desktop/PEFE/PEfE/obj/Debug/netcoreapp3.1/PEfE.pdb
+/home/shirya/Desktop/PEFE/PEfE/obj/Debug/netcoreapp3.1/PEfE.genruntimeconfig.cache

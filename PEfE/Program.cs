@@ -6,7 +6,7 @@ namespace PEfE
     {
         static void Main(string[] args)
         {
-            Menu menu = new Menu();
+            RussianMenu menu = new RussianMenu();
             menu.StartMenu();
         }
     }
